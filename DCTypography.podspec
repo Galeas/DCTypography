@@ -9,7 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = "DCTypography"
   s.version          = "0.1.0"
-  s.summary          = "DCTypography is a simple and user-friendly tool designed for reconciliation of developers and designers :)"
+  s.summary          = <<-DESC
+                        DCTypography is a simple and user-friendly tool designed for reconciliation of developers and designers :)
+                        DESC
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
