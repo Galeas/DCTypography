@@ -23,7 +23,6 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Evgeniy Branitsky" => "akki12091987@gmail.com" }
   s.source           = { :git => "https://github.com/Galeas/DCTypography.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
@@ -32,8 +31,4 @@ Pod::Spec.new do |s|
   # s.resource_bundles = {
   #   'DCTypography' => ['Pod/Assets/*.png']
   # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
