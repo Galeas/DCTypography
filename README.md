@@ -7,7 +7,7 @@ With DCTypography you can create a typographic styles when it's convenient to yo
 Example 1:
 ```objc
 DCTypographyStyle *style = [DCTypographyStyle styleWithName:@"style"];
-[style setFont:[UIFont fontWithName:@"HelvetivaNeue" size:24]];
+[style setFont:[UIFont fontWithName:@"Menlo-Regular" size:24]];
 [style setForegroundColor:[UIColor redColor]];
 [style setBackgroundColor:[UIColor yellowColor]];
 [style setTrackingValue:10 fromPhotoshop:NO];
@@ -19,7 +19,7 @@ DCTypographyStyle *style = [DCTypographyStyle styleWithName:@"style"];
 ```
 Result 1:
 
-![Result 1](http://take.ms/D8cGr)
+![Result 1](http://take.ms/Ah3rE)
 
 Example 2:
 ```objc
