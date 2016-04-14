@@ -2,7 +2,7 @@
 
 DCTypography**DCTypography** is a simple and user-friendly tool designed for reconciliation of developers and designers :)
 
-With DCTypography you can create a typographic styles when it's convenient to you, add them to the shared storage and use when needed. You need just specify typogrphic parameters.
+With DCTypography you can create a typographic styles when it's convenient to you, add them to the shared storage and use when needed. You need just specify typographic parameters.
 
 Example 1:
 ```objc
