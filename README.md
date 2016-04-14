@@ -15,7 +15,7 @@ DCTypographyStyle *style = [DCTypographyStyle styleWithName:@"style"];
 [style setAlignment:NSTextAlignmentCenter];
 [DCTypography addStyle:style];
 ...
-[self.label setAttributedText:[DCTypography attributedStringWithContents:@"Lorem Ipsum dolOn Sit ameT" styleName:@"style"]];
+[self.label setAttributedText:[DCTypography attributedStringWithContents:@"Lorem ipsum dolor sit amet, consectetur adipiscing elit." styleName:@"style"]];
 ```
 Result 1:
 
