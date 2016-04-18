@@ -33,7 +33,7 @@ DCTypographyStyle *style1 = [DCTypographyStyle styleWithName:@"style1"];
 [style1 setBackgroundColor:[UIColor greenColor]];
 [DCTypography addStyle:style1];
 ...
-[self.lalbel setAttributedText:[DCTypography attributedStringWithContents:@"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo neque, lacinia id diam at, porta vestibulum ante. Nulla ut risus rutrum neque bibendum porta. Nulla cursus, mi quis consequat rhoncus, nulla dolor maximus lacus, ut egestas leo libero dictum lacus. In purus elit, tincidunt rutrum nisi sit amet, dictum posuere neque." styleName:@"style1"]];
+[self.label setAttributedText:[DCTypography attributedStringWithContents:@"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo neque, lacinia id diam at, porta vestibulum ante. Nulla ut risus rutrum neque bibendum porta. Nulla cursus, mi quis consequat rhoncus, nulla dolor maximus lacus, ut egestas leo libero dictum lacus. In purus elit, tincidunt rutrum nisi sit amet, dictum posuere neque." styleName:@"style1"]];
 ```
 Result 2:
 
